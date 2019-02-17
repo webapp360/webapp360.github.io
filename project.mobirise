@@ -135,7 +135,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Go360°</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://go360.biz\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Go360°</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -216,7 +216,7 @@
           },
           "title": "FAST AND SECURE MANAGED WORDPRESS HOSTING",
           "text": "Build an amazing website in just under an hour with Website Builder. Take advantage of designs created just for your industry and then customize them to reflect your one-of-a-kind idea.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.webapp360.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET STARTED</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
