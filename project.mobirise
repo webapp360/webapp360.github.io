@@ -31,7 +31,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://go360.biz",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/go360-128x37.png",
+    "favicon": "",
     "noImageResize": "",
     "sitemapSwitcher": "on",
     "cookiesAlert": "",
@@ -121,18 +121,21 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#counters4-b\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-137x32.png",
               "height": 128,
-              "alt": "",
+              "alt": "website builder",
               "link": "https://go360.biz",
-              "title": "",
-              "linkInNewWindow": false
+              "title": "go360"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "link": "https://go360.biz",
+              "size": 0,
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
