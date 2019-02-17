@@ -31,7 +31,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://go360.biz",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/go360-128x37.png",
     "noImageResize": "",
     "sitemapSwitcher": "on",
     "cookiesAlert": "",
