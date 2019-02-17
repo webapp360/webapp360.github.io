@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Business-Website",
+    "name": "Web-App-360",
     "currentPage": "index.html",
     "theme": {
       "name": "colorm",
@@ -26,13 +26,24 @@
     "siteFonts": [],
     "uniqCompNum": 7,
     "versionPublish": "4.9.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://go360.biz",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "sitemapSwitcher": "on",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "google-analytics": "",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Go360° - Domain Names Plus WordPress Hosting Made Easy",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
