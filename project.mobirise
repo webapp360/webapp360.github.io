@@ -219,7 +219,7 @@
           },
           "title": "BEAUTIFUL MOBILE WEBSITES",
           "text": "Develop fully responsive, mobile-ready websites",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://www.webapp360.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET STARTED</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -249,7 +249,7 @@
           },
           "title": "View Our Statistic",
           "text": "Build an amazing website in just under an hour with Website Builder. Take advantage of designs created just for your industry and then customize them to reflect your one-of-a-kind idea.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.webapp360.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">learn more</a>",
           "subtitle1": "Views",
           "subtitle2": "Images",
           "subtitle3": "Sites",
