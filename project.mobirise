@@ -47,68 +47,14 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Go360° - Domain Names Plus WordPress Hosting Made Easy",
-        "meta_descr": "Online website builder software to use with your new domain. Custom templates for your website with fast and easy wordpress hosting setup. Test drive today",
+        "title": "Go360° - Domain Names & WordPress Hosting Made Easy",
+        "meta_descr": "Online website builder software to use with your new domain. Custom wordpress templates for your site with easy wordpress hosting",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
       "components": [
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.875rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.948rem"
-            },
-            ".link:hover, .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
-              "background": "@primaryColor"
-            },
-            ".dropdown-item:hover, .dropdown-item:focus": {
-              "color": "#ffffff"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d66a0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f07b18!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#f18326"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#f39c12!important"
-            }
-          },
           "_params": {
             "logo": false,
             "showBrand": true,
@@ -148,17 +94,14 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-9"
+          "_anchor": "menu-9",
+          "_customHTML": "<section class=\"menu1\" data-rv-view=\"0\">\n\n    <nav class=\"navbar navbar-dropdown navbar-fixed-top\">\n        <div class=\"container-fluid\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        \n                        <a class=\"navbar-caption\" href=\"https://go360.biz\">Go360°</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <span class=\"hamburger-icon\"></span>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://sso.secureserver.net/v1/account/create?plid=541299&amp;prog_id=541299&amp;realm=idp&amp;path=%2Fproducts&amp;app=account\" code-editable-id=\"6\">CREATE ACCOUNT</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"https://sso.secureserver.net/?plid=541299&amp;prog_id=541299&amp;realm=idp&amp;path=%2Fproducts&amp;app=account\" code-editable-id=\"7\">Sign In</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <span class=\"close-icon\"></span>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-caption {\n  color: #ffffff;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #ffffff;\n}\n.link, .dropdown-item {\n  color: #ffffff;\n}\n.link {\n  font-size: 0.875rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 0.948rem;\n}\n.link:hover, .link:focus {\n  color: #f39c12;\n}\n.dropdown-item:hover::before, .dropdown-item:focus::before {\n  background: #f39c12;\n}\n.dropdown-item:hover, .dropdown-item:focus {\n  color: #ffffff;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #d66a0e;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #f07b18!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #f18326;\n}\n.bg-color.transparent .link {\n  color: #ffffff;\n  transition: none;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #f39c12;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n  color: #f39c12!important;\n}\n",
+          "_customTemplate": true
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle, .btn": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-weight": "700"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -188,7 +131,12 @@
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-0"
+          "_anchor": "header2-0",
+          "_customCSS": ".mbr-section-title, .mbr-section-subtitle, .btn {\n  color: #fff;\n}\n.mbr-section-title {\n  font-weight: 700;\n}\n",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header2 mbr-section-with-arrow mbr-parallax-background mbr-after-navbar\" data-rv-view=\"2\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/05.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(47, 212, 201);\"></div>\n\n    <div class=\"mbr-table-cell mbr-table-cell-vertical-bottom\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1 text-xs-left\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"8\">DROP-DEAD EASY<br>WEBSITE<br>MAKER</h1>\n\n                    <div class=\"container-fluid padding-bottom-100\">\n                        <div class=\"row position-relative\">\n                            <div class=\"col-xs-12 col-md-5 padding-left-0 padding-right-0\">   \n\n                                <p class=\"mbr-section-subtitle display-3 margin-bottom-0 margin-top-0 mbr-editable-content\" code-editable-id=\"9\">Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.</p>\n\n                            </div>\n\n                            <div class=\"col-xs-12 col-md-5 col-md-offset-2 text-xs-center text-md-right padding-left-0 padding-right-0 buttons-wrap\">\n        \n                                \n\n                            </div>\n                        </div>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#image2-8\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -216,20 +164,14 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-8"
+          "_anchor": "image2-8",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container image2 mbr-after-navbar\" data-rv-view=\"5\" style=\"background-color: rgb(255, 255, 255); padding-top: 80px; padding-bottom: 80px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <figure class=\"mbr-figure\">\n                    <div><img src=\"@PROJECT_PATH@/assets/images/cover-1227x610.png\"></div>\n\n                    \n\n                </figure>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
-          "_styles": {
-            ".display-1": {
-              "font-weight": "700",
-              "color": "#fff"
-            },
-            ".lead": {
-              "color": "#fff",
-              "text-transform": "uppercase",
-              "margin-bottom": "0"
-            }
-          },
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -257,16 +199,14 @@
             "Theme"
           ],
           "_name": "call3",
-          "_anchor": "call3-8"
+          "_anchor": "call3-8",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero call1 mbr-after-navbar\" data-rv-view=\"7\" style=\"background-color: rgb(231, 76, 60); padding-top: 80px; padding-bottom: 80px;\">\n\n    \n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-lg-10 col-lg-offset-1 text-xs-left\">\n\n                    <div class=\"text-xs-center\">\n                        <p class=\"mbr-section-subtitle lead subtitle mbr-editable-content\" code-editable-id=\"10\">Develop fully responsive, mobile-ready websites</p>\n\n                        <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"11\">BEAUTIFUL MOBILE WEBSITES</h1>\n\n                        <div class=\"mbr-section-btn\"><a class=\"btn btn-primary btn-lg mbr-editable-button\" href=\"https://www.webapp360.com/products/website-builder\" code-editable-id=\"12\">GET STARTED</a></div>\n                        \n                    </div>\n\n                </div>\n            </div>\n        </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".display-1 {\n  font-weight: 700;\n  color: #fff;\n}\n.lead {\n  color: #fff;\n  text-transform: uppercase;\n  margin-bottom: 0;\n}\n",
+          "_customTemplate": true
         },
         {
-          "_styles": {
-            ".display-1": {
-              "font-weight": "700",
-              "text-transform": "uppercase",
-              "margin-top": "40px"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -298,14 +238,14 @@
             "Theme"
           ],
           "_name": "animated-bg1",
-          "_anchor": "animated-bg1-2"
+          "_anchor": "animated-bg1-2",
+          "_customHTML": "<section class=\"mbr-section animated-bg1 tab-content mbr-after-navbar\" data-rv-view=\"10\" style=\"background-color: rgb(67, 60, 94); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n    <div class=\"bgText\">\n        <div class=\"wrapper-absolute\">\n            <p class=\"bgTextP\" style=\"color: rgb(185, 142, 177); font-size: 300px; font-family: Montserrat;\">For small business and bloggers on the way up.</p>   \n        </div>     \n    </div>\n            <div class=\"container-fluid\">\n                <div class=\"row\">\n                    <div id=\"title\">\n                        <div class=\"span-title\">\n                            <h1 class=\"mbr-section-title display-1 text-center pad-r mbr-editable-content\" code-editable-id=\"13\">wordpress</h1>\n                            <span class=\"mbr-section-title display-2\">\n                            </span>\n                        </div>\n                        <div class=\"mbr-section-text lead text-center\">\n                            <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"14\">Build an amazing website in just under an hour with Website Builder. Take advantage of designs created just for your industry and then customize them to reflect your one-of-a-kind idea.</p>\n                         </div>\n\n                        <div class=\"mbr-section-btn text-center\"><a class=\"btn btn-white mbr-editable-button\" href=\"https://www.webapp360.com/products/wordpress\" code-editable-id=\"15\">GET STARTED</a></div>\n\n                    </div>\n                </div> \n            </div> \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".display-1 {\n  font-weight: 700;\n  text-transform: uppercase;\n  margin-top: 40px;\n}\n",
+          "_customTemplate": true
         },
         {
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#fff"
-            }
-          },
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -324,7 +264,12 @@
             "Theme"
           ],
           "_name": "footer2",
-          "_anchor": "footer2-9"
+          "_anchor": "footer2-9",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding mbr-after-navbar\" data-rv-view=\"13\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container\">\n        <p class=\"text-xs-center lead mbr-editable-content\" code-editable-id=\"16\">Copyright (c) 2019&nbsp;Go360°.</p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-text {\n  color: #fff;\n}\n",
+          "_customTemplate": true
         }
       ]
     }
