@@ -122,7 +122,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#counters4-b\">OVERVIEW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Sign In</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sso.secureserver.net/v1/account/create?plid=541299&amp;prog_id=541299&amp;realm=idp&amp;path=%2Fproducts&amp;app=account\">CREATE ACCOUNT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://sso.secureserver.net/?plid=541299&amp;prog_id=541299&amp;realm=idp&amp;path=%2Fproducts&amp;app=account\">Sign In</a></li>",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-137x32.png",
