@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 9,
+    "uniqCompNum": 10,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -251,51 +251,13 @@
           },
           "title": "BEAUTIFUL MOBILE WEBSITES",
           "text": "Develop fully responsive, mobile-ready websites",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://www.webapp360.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET STARTED</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-lg\" href=\"https://www.webapp360.com/products/website-builder\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "call3",
           "_anchor": "call3-8"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showTitles": true,
-            "showText": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/extFeatures1/images/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.75
-          },
-          "title": "View Our Statistic",
-          "text": "Build an amazing website in just under an hour with Website Builder. Take advantage of designs created just for your industry and then customize them to reflect your one-of-a-kind idea.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.webapp360.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">learn more</a>",
-          "subtitle1": "Views",
-          "subtitle2": "Images",
-          "subtitle3": "Sites",
-          "subtitle4": "Projects",
-          "number1": "69809",
-          "number2": "3726",
-          "number3": "341",
-          "number4": "57",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "counters4",
-          "_anchor": "counters4-b"
         },
         {
           "_styles": {
@@ -309,8 +271,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
             "parallax": false,
@@ -319,7 +281,7 @@
             "bgText": "For small business and bloggers on the way up.",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#b98eb1",
-            "bgTextSize": 250,
+            "bgTextSize": "300",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -328,15 +290,41 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "FAST AND SECURE MANAGED WORDPRESS HOSTING",
+          "title": "wordpress",
           "text": "Build an amazing website in just under an hour with Website Builder. Take advantage of designs created just for your industry and then customize them to reflect your one-of-a-kind idea.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.webapp360.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET STARTED</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.webapp360.com/products/wordpress\" data-toolbar=\"-mbrBtnMove\">GET STARTED</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
           "_name": "animated-bg1",
           "_anchor": "animated-bg1-2"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019&nbsp;<a href=\"http://mobirise.com\">Go360°</a>.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-9"
         }
       ]
     }
