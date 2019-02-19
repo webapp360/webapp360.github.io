@@ -119,7 +119,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
@@ -184,7 +184,7 @@
             },
             "overlay": true,
             "overlayColor": "#2fd4c9",
-            "overlayOpacity": 0.9
+            "overlayOpacity": "0.8"
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "DROP-DEAD EASY<br>WEBSITE<br>MAKER",
