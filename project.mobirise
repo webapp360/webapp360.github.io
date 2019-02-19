@@ -74,10 +74,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -123,7 +123,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.7",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",

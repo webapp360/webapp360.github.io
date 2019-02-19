@@ -727,11 +727,11 @@ blockquote {
   font-family: 'Oxygen', sans-serif;
 }
 #menu-a .link {
-  font-size: 1rem;
+  font-size: 0.7rem;
 }
 #menu-a .dropdown-item,
 #menu-a .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.758rem;
 }
 #menu-a .link:hover,
 #menu-a .link:focus {
