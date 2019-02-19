@@ -184,7 +184,7 @@
             },
             "overlay": true,
             "overlayColor": "#2fd4c9",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.9"
           },
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "title": "EASY WEBSITE<br>MAKER",
