@@ -169,7 +169,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "buttonAlign": "right",
             "showArrow": true,
             "iconsColor": "#ffffff",
