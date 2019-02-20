@@ -72,7 +72,7 @@ textarea,
   font-style: normal;
 }
 .bg-primary {
-  background-color: #8e44ad !important;
+  background-color: #000000 !important;
 }
 .bg-success {
   background-color: #2ecc71 !important;
@@ -87,8 +87,8 @@ textarea,
   background-color: #e74c3c !important;
 }
 .btn-primary {
-  background-color: #8e44ad;
-  border-color: #8e44ad;
+  background-color: #000000;
+  border-color: #000000;
   color: #000000;
 }
 .btn-primary:hover,
@@ -97,14 +97,14 @@ textarea,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #a563c1;
-  border-color: #a563c1;
+  background-color: #1a1a1a;
+  border-color: #1a1a1a;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #a563c1 !important;
-  border-color: #a563c1 !important;
+  background-color: #1a1a1a !important;
+  border-color: #1a1a1a !important;
 }
 .btn-secondary {
   background-color: #8e44ad;
@@ -208,8 +208,8 @@ textarea,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #8841a6;
-  color: #8841a6;
+  border-color: #ffffff;
+  color: #ffffff;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -217,14 +217,14 @@ textarea,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #fff;
-  background-color: #8e44ad;
-  border-color: #8e44ad;
+  background-color: #000000;
+  border-color: #000000;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #000000 !important;
-  background-color: #8e44ad !important;
-  border-color: #8e44ad !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -327,7 +327,7 @@ textarea,
   border-color: #e74c3c !important;
 }
 .btn-primary.btn-text {
-  color: #8e44ad;
+  color: #000000;
   background: none;
   border: none;
 }
@@ -336,7 +336,7 @@ textarea,
 .btn-primary.btn-text.focus,
 .btn-primary.btn-text:active,
 .btn-primary.btn-text.active {
-  color: #a563c1;
+  color: #1a1a1a;
   background: none !important;
   border: none !important;
 }
@@ -439,7 +439,7 @@ textarea,
   border: none !important;
 }
 .text-primary {
-  color: #8e44ad !important;
+  color: #000000 !important;
 }
 .text-success {
   color: #2ecc71 !important;
@@ -466,35 +466,35 @@ textarea,
   background-color: #e74c3c;
 }
 .btn-social {
-  border-color: #8e44ad;
+  border-color: #000000;
 }
 .btn-social:hover {
-  background: #8e44ad;
+  background: #000000;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #8e44ad;
+  color: #000000;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #8e44ad;
+  color: #000000;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #8e44ad;
+  background: #000000;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #8e44ad;
+  color: #000000;
 }
 .lead a {
-  color: #8e44ad;
+  color: #000000;
 }
 .lead a:hover {
-  color: #a563c1;
+  color: #1a1a1a;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #c599d7;
+  color: #b3b3b3;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -514,7 +514,7 @@ textarea,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #8e44ad;
+  color: #000000;
 }
 .scrollToTop_wraper {
   display: none;
@@ -522,10 +522,10 @@ textarea,
 /*colorM*/
 /*nav-tabs*/
 .header5 .nav-tabs .nav-link:after {
-  background: #8e44ad;
+  background: #000000;
 }
 .header9 .nav-tabs .nav-link.active:after {
-  background: #8e44ad;
+  background: #000000;
   color: #222;
 }
 /*end-nav-tabs*/
@@ -538,17 +538,17 @@ textarea,
 }
 .mbr-arrow a,
 .mbr-arrow-up a {
-  background: rgba(142, 68, 173, 0.6);
+  background: rgba(0, 0, 0, 0.6);
   color: #000;
 }
 .mbr-arrow a:hover,
 .mbr-arrow-up a:hover {
-  background: #9b50ba;
+  background: #0d0d0d;
 }
 /*end mbr-arrow next and toTop*/
 /*features8*/
 .card .card-number {
-  background: #8e44ad;
+  background: #000000;
 }
 /*features14*/
 .features13 .card .card-number,
@@ -557,74 +557,74 @@ textarea,
 }
 /*features15*/
 .features15 .card-block:before {
-  border-color: rgba(142, 68, 173, 0.5);
+  border-color: rgba(0, 0, 0, 0.5);
 }
 /*features16*/
 .features16 .mbr-section-subtitle:before {
-  background: #8e44ad;
+  background: #000000;
 }
 /*slider elements*/
 .mbr-slider .carousel-control:hover {
-  background: #8e44ad;
+  background: #000000;
 }
 .mbr-slider .carousel-indicators .active {
-  background: #8e44ad;
+  background: #000000;
 }
 /*gallery*/
 .mbr-gallery .modal .close {
-  border-color: #8e44ad;
+  border-color: #000000;
 }
 .mbr-gallery .modal .close:hover {
-  background: #8e44ad;
+  background: #000000;
 }
 .mbr-gallery-filter li.active {
-  border-color: #8e44ad;
+  border-color: #000000;
   color: #000;
 }
 .mbr-gallery-filter li:hover {
-  background: #a563c1;
+  background: #1a1a1a;
   color: #000;
 }
 .mbr-gallery .mbr-gallery-item:hover > div::before {
-  background: rgba(142, 68, 173, 0.5);
+  background: rgba(0, 0, 0, 0.5);
 }
 .mbr-gallery .mbr-gallery-item:hover {
-  background: #8e44ad;
+  background: #000000;
 }
 /*end gallery*/
 /*blockquote*/
 blockquote {
-  border-left: 3px solid #8e44ad;
+  border-left: 3px solid #000000;
 }
 /*content4*/
 .content4 p {
-  border-top-color: #8e44ad;
-  border-bottom-color: #8e44ad;
+  border-top-color: #000000;
+  border-bottom-color: #000000;
 }
 /*image2, video2*/
 .image1 .mbr-figure-caption,
 .video1 .mbr-figure-caption,
 .image2 .mbr-figure-caption,
 .video2 .mbr-figure-caption {
-  background-color: #8e44ad;
+  background-color: #000000;
 }
 /* progress bar */
 .progressbar .progress-primary[value]::-webkit-progress-value {
-  background-color: #8e44ad;
+  background-color: #000000;
 }
 .progressbar .progress-primary[value]::-moz-progress-bar {
-  background-color: #8e44ad;
+  background-color: #000000;
 }
 .progressbar .progress-primary[value]::-ms-fill {
-  background-color: #8e44ad;
+  background-color: #000000;
 }
 @media screen and (min-width: 0\0) {
   .progressbar .progress-primary .progress-bar {
-    background-color: #8e44ad;
+    background-color: #000000;
   }
 }
 .progressbar .progressbar-number {
-  background: #a563c1;
+  background: #1a1a1a;
 }
 /*countdown*/
 .countdown .period {
@@ -635,38 +635,38 @@ blockquote {
   font-family: 'Arvo', serif;
 }
 .countdown1 .number-wrap {
-  border-color: #8e44ad;
+  border-color: #000000;
 }
 .countdown2 .bottom1 {
-  background: #a563c1;
+  background: #1a1a1a;
 }
 .countdown2 .bottom2 {
-  background: #703688;
+  background: #000000;
 }
 /*accordion*/
 .accordion .panel-heading {
-  background: #a563c1;
-  border-bottom: 1px solid #703688;
+  background: #1a1a1a;
+  border-bottom: 1px solid #000000;
 }
 .accordion .panel-heading:hover {
-  background: #703688;
+  background: #000000;
 }
 .accordion .accordion-group .panel:last-child:after {
-  background: #703688;
+  background: #000000;
 }
 /* news */
 .news__card:hover {
-  background: #8e44ad;
+  background: #000000;
 }
 /*footer*/
 .footer1 .footer-list a:hover {
-  color: #8e44ad;
+  color: #000000;
 }
 .shop1 .shop-item-price {
   font-family: 'Montserrat', sans-serif;
 }
 .shop1 .mbr-gallery-item:hover .item_overlay {
-  background: #8e44ad;
+  background: #000000;
   opacity: 0.2;
 }
 .team1 .title1,
@@ -703,7 +703,7 @@ blockquote {
 .person-info .subtitle2,
 .person-info .subtitle3,
 .person-info .subtitle4 {
-  color: #8e44ad;
+  color: #000000;
 }
 .animated-bg1 .text {
   font-family: 'Open Sans', sans-serif;
@@ -748,11 +748,11 @@ blockquote {
 }
 #menu-a .link:hover,
 #menu-a .link:focus {
-  color: #8e44ad;
+  color: #000000;
 }
 #menu-a .dropdown-item:hover::before,
 #menu-a .dropdown-item:focus::before {
-  background: #8e44ad;
+  background: #000000;
 }
 #menu-a .dropdown-item:hover,
 #menu-a .dropdown-item:focus {
@@ -783,7 +783,7 @@ blockquote {
 }
 #menu-a .bg-color.transparent.opened .link:hover,
 #menu-a .bg-color.transparent.opened .link:focus {
-  color: #8e44ad;
+  color: #000000;
 }
 #menu-a .link[aria-expanded="true"],
 #menu-a .dropdown-item[aria-expanded="true"] {
