@@ -6,8 +6,8 @@
       "name": "colorm",
       "title": "ColorM",
       "styling": {
-        "primaryColor": "#000000",
-        "buttonsColor": "#ffffff",
+        "primaryColor": "#8e44ad",
+        "buttonsColor": "#000000",
         "secondaryColor": "#8e44ad",
         "successColor": "#2ecc71",
         "infoColor": "#3498db",
@@ -16,7 +16,7 @@
         "titleFont": "Arvo",
         "subtitleFont": "Montserrat",
         "textFont": "Open Sans",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
@@ -74,10 +74,10 @@
               "font-family": "'Oxygen', sans-serif"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .link:focus": {
               "color": "@primaryColor"
@@ -108,7 +108,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#8e44ad!important"
             },
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
@@ -123,7 +123,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.7",
+            "fontSize": "1",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -132,7 +132,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/\">Domains</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/website-builder\">Websites</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/wordpress\">WordPress</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/business\">Hosting</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://sso.secureserver.net/?plid=541299&amp;prog_id=541299&amp;realm=idp&amp;path=%2Fproducts&amp;app=account\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Sign in</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/\">Domains</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/website-builder\">Websites</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/wordpress\">WordPress</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/business\">Hosting</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://sso.secureserver.net/?plid=541299&amp;prog_id=541299&amp;realm=idp&amp;path=%2Fproducts&amp;app=account\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>Sign in</a></li>",
           "logo": {
             "image": {
               "active": true,
