@@ -119,9 +119,9 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": "0.7",
             "fontName": {
