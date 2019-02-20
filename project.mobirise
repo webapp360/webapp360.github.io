@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 15,
+    "uniqCompNum": 10,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -132,7 +132,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/domain-registration\">Domains</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/website-builder\">Websites</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/wordpress\">WordPress</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/business\">Hosting</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://appbuilder.appmaker360.com/login\">Progressive Web Apps</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"mdi-social-person mbr-iconfont mbr-iconfont-btn\"></span>Sign in</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/domain-registration\">Domains</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/website-builder\">Websites</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/wordpress\">WordPress</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.webapp360.com/products/business\">Hosting</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://appbuilder.appmaker360.com/login\">Mobile Apps</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\"><span class=\"mdi-social-person mbr-iconfont mbr-iconfont-btn\"></span>Sign in</a></li>",
           "logo": {
             "image": {
               "active": true,

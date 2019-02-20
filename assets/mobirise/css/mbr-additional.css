@@ -6,17 +6,18 @@
 
 
 
+
 body,
 input,
 textarea,
 .mbr-section-text,
 .mbr-company .list-group-text,
 .panel-body {
-  font-family: undefined;
+  font-family: 'Open Sans', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: undefined;
+  font-family: 'Open Sans', sans-serif;
 }
 .alert,
 .mbr-section-title,
@@ -684,7 +685,7 @@ blockquote {
 .person-info .text3,
 .team1 .text4,
 .person-info .text4 {
-  font-family: undefined;
+  font-family: 'Open Sans', sans-serif;
 }
 .person-info .subtitle1,
 .person-info .subtitle2,
@@ -693,13 +694,13 @@ blockquote {
   color: #000000;
 }
 .animated-bg1 .text {
-  font-family: undefined;
+  font-family: 'Open Sans', sans-serif;
 }
 .features9 .timeline-panel h4 {
   font-family: 'Arvo', serif;
 }
 .features9 .timeline-panel p {
-  font-family: undefined;
+  font-family: 'Open Sans', sans-serif;
 }
 .features9 .date-normal p {
   font-family: 'Montserrat', sans-serif;
