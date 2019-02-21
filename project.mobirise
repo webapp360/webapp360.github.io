@@ -7,7 +7,7 @@
       "title": "ColorM",
       "styling": {
         "primaryColor": "#000000",
-        "buttonsColor": "#000000",
+        "buttonsColor": "#ffffff",
         "secondaryColor": "#8e44ad",
         "successColor": "#2ecc71",
         "infoColor": "#3498db",
@@ -17,7 +17,7 @@
         "subtitleFont": "Montserrat",
         "textFont": "Open Sans",
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
@@ -108,7 +108,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#8e44ad!important"
+              "color": "#000000!important"
             },
             ".btn": {
               "font-family": "'Open Sans', sans-serif",
@@ -171,7 +171,7 @@
             "showText": true,
             "showButtons": false,
             "buttonAlign": "right",
-            "showArrow": true,
+            "showArrow": false,
             "iconsColor": "#ffffff",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/05.jpg",
@@ -186,7 +186,7 @@
             "overlayColor": "#2fd4c9",
             "overlayOpacity": "0.9"
           },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "EASY WEBSITE<br>MAKER",
           "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
