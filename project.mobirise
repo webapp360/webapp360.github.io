@@ -47,8 +47,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Go360° - Domain Names & WordPress Hosting Made Easy",
-        "meta_descr": "Go360° offers reliable website hosting, email, and affordable domain name prices. Online website builder software to use with your new domain. Custom wordpress templates for your site with easy wordpress hosting.",
+        "title": "Go 360° - Apps Domain Names & WordPress Hosting Made Easy",
+        "meta_descr": "Go 360° offers reliable website hosting, email, and affordable domain name prices. Online website builder software to use with your new domain. Custom wordpress templates for your site with easy wordpress hosting.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -188,7 +188,7 @@
           },
           "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
           "title": "EASY WEBSITE<br>MAKER",
-          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "text": "Go 360° Cuts down the development time with drag-and-drop App &amp; website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
